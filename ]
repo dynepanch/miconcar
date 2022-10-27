@@ -117,7 +117,7 @@ int main(void){
 			}else{
 				m.lgstr=0;
 			}
-			if(m.lgstr>40){
+			if(m.lgstr>100){
 					lgstr[endstr]=i-1;
 					//printf("%d\n",lgstr[endstr]);
 			}
